@@ -1,0 +1,11 @@
+country,name,brewery,abv,ibu,predicted_rating,food_pairing
+Germany,Weihenstephaner Hefeweissbier,Weihenstephan,5.4,14,4.5,Pretzels and sausage
+Belgium,Chimay Blue,Scourmont Abbey,9.0,35,4.7,Stews and cheese
+Japan,Hitachino Nest White Ale,Kiuchi Brewery,5.5,13,4.2,Sushi and seafood
+Mexico,Corona Extra,Grupo Modelo,4.5,18,3.8,Tacos with lime
+Australia,Coopers Pale Ale,Coopers Brewery,4.5,24,4.0,BBQ and grilled chicken
+Italy,Peroni Nastro Azzurro,Birra Peroni,5.1,18,4.1,Pizza and pasta
+Canada,Moosehead Lager,Moosehead Breweries,5.0,15,4.0,Burgers and fries
+United Kingdom,Fuller's London Pride,Fuller's,4.7,30,4.3,Roast beef and potatoes
+Netherlands,Heineken,Heineken N.V.,5.0,19,3.9,Bitterballen and fries
+Brazil,Brahma,Ambev,4.8,18,3.7,Feijoada and grilled meats
