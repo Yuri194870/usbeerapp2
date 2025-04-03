@@ -588,7 +588,6 @@ with tab1:
 
 
 with tab2:
-    st.header("Welke Amerikaanse staat heeft de meeste bierliefhebbers?")
     col1, col2 = st.columns([4,1],border=True)
     with col1:
         # Selectbox met 4 keuzes
